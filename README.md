@@ -37,8 +37,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&theme=dark&hide_border=false&count_private=true)
 
-[![Top Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koskei-kipkoech&theme=dark)](https://github.com/koskei-kipkoech?tab=repositories)
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=koskei-kipkoech&theme=dark&hide_border=false)
 
 ---
 
