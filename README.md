@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Kipkoech 👋
 
-## About Me:
+## 💫 About Me:
 🚀 Software Developer | Full-Stack Engineer | Tech Enthusiast
 👨‍💻 💡 Passionate about building scalable applications, exploring new technologies, and solving real-world problems through code. I specialize in React, Flask, SQLAlchemy, and Docker, with experience in web scraping, API development, and automation.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻  Tech Stack:
 
 ### Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
@@ -38,25 +38,16 @@
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![Your Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## ✍️ Random Dev Quote:
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## 🔝 Top Contributed Repo:
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Your Name](https://github.com/koskei-kipkoech)
