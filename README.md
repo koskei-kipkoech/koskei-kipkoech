@@ -1,4 +1,3 @@
-# Hi, I'm Patrick Kipkoech 👋
 
 ## 💫 About Me:
 🚀 Software Developer | Full-Stack Engineer | Tech Enthusiast
