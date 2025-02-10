@@ -7,12 +7,10 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@yourprofile)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-kipkoech)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@patrickwayy)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/yourprofile)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/@patrickkip22)
 
 ---
 
@@ -38,9 +36,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koskei-kipkoech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
