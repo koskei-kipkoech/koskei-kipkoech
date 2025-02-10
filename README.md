@@ -2,7 +2,9 @@
 
 ## 💫 About Me:
 🚀 Software Developer | Full-Stack Engineer | Tech Enthusiast
-👨‍💻 💡 Passionate about building scalable applications, exploring new technologies, and solving real-world problems through code. I specialize in React, Flask, SQLAlchemy, and Docker, with experience in web scraping, API development, and automation.
+🔹 Passionate about creating seamless, user-friendly applications.  
+🔹 I specialize in **React, Flask, SQLAlchemy, Docker**, and love solving real-world problems.  
+🔹 Exploring **AI, Automation, and Open Source** in my free time.
 
 ---
 
@@ -34,6 +36,13 @@
 
 
 ---
+## 🚀 Featured Projects  
+🔹 **[Blog-Application](https://github.com/koskei-kipkoech/Blog-Application)** – A blogging platform using JavaScript.  
+🔹 **[Notes_App](https://github.com/koskei-kipkoech/Notes_App)** – Flask-based notes app with a calendar.  
+🔹 **[Recipe-App](https://github.com/koskei-kipkoech/Recipe-App)** – A recipe app built with React & Firebase.  
+
+---
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&theme=dark&hide_border=false&count_private=true)
 
