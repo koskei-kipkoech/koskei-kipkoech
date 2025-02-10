@@ -1,6 +1,7 @@
 
 ## 💫 About Me:
-🚀 Software Developer | Full-Stack Engineer | Tech Enthusiast
+  🚀 Software Developer | Full-Stack Engineer | Tech Enthusiast
+
 🔹 Passionate about creating seamless, user-friendly applications.  
 🔹 I specialize in **React, Flask, SQLAlchemy, Docker**, and love solving real-world problems.  
 🔹 Exploring **AI, Automation, and Open Source** in my free time.
