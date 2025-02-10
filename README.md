@@ -50,4 +50,4 @@
 
 ---
 
-⭐️ From [Your Name](https://github.com/koskei-kipkoech)
+⭐️ From [Patrick Kipkoech](https://github.com/koskei-kipkoech)
