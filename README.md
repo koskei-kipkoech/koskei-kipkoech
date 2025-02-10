@@ -37,9 +37,16 @@
 
 ---
 ## 🚀 Featured Projects  
-🔹 **[Blog-Application](https://github.com/koskei-kipkoech/Blog-Application)** – A blogging platform using JavaScript.  
-🔹 **[Notes_App](https://github.com/koskei-kipkoech/Notes_App)** – Flask-based notes app with a calendar.  
-🔹 **[Recipe-App](https://github.com/koskei-kipkoech/Recipe-App)** – A recipe app built with React & Firebase.  
+### 1️⃣ [Fashion Store](https://github.com/koskei-kipkoech/fashion-store)
+An interactive React-based fashion e-commerce website with filtering and a shopping cart.
+
+### 2️⃣ [Notes App](https://github.com/koskei-kipkoech/notes-app)
+A full-stack notes application built with Flask and React, featuring authentication and a calendar.
+
+### 3️⃣ [Recipe Finder](https://github.com/koskei-kipkoech/recipe-app)
+A recipe search and management application with dark mode and saved recipes.
+
+🌟 **View more projects [here](https://github.com/koskei-kipkoech?tab=repositories)!**  
 
 ---
 
