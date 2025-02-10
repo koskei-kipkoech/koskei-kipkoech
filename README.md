@@ -1,7 +1,9 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Patrick Kipkoech 👋
 
 ## About Me:
-👨‍💻 I am a passionate and results-driven Software Engineer with a Bachelor’s degree in Computer Science and hands-on training in software development from Moringa School. I specialize in building scalable web applications and optimizing business processes through full-stack development (React, Flask), database management (SQLAlchemy, MongoDB), and automation (web scraping, Docker). 
+🚀 Software Developer | Full-Stack Engineer | Tech Enthusiast
+👨‍💻 💡 Passionate about building scalable applications, exploring new technologies, and solving real-world problems through code. I specialize in React, Flask, SQLAlchemy, and Docker, with experience in web scraping, API development, and automation.
+
 ---
 
 ## 🌐 Socials:
@@ -15,40 +17,49 @@
 ---
 
 ## 💻 Tech Stack:
-### Programming Languages:
-![Apache Groovy](https://img.shields.io/badge/Apache_Groovy-4298B8?logo=apache-groovy&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
 
-### Cloud & DevOps Tools:
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
 
-### Databases:
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+### Backend  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white)  
+![Alembic](https://img.shields.io/badge/Alembic-4B8BBE?logo=python&logoColor=white)  
 
-### Monitoring & Logging:
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+### Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+
+### DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-0096FF?logo=render&logoColor=white)  
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)  
+![YAML](https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
+
+### Other  
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?logo=api&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white) 
+![Scrapy](https://img.shields.io/badge/Scrapy-88B04B?logo=python&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![ERD (dbdiagram.io)](https://img.shields.io/badge/ERD-dbdiagram.io-4E89AE?logo=database&logoColor=white)  
+
 
 ---
 
