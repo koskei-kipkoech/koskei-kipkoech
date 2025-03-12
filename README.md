@@ -49,6 +49,14 @@ A recipe search and management application with dark mode and saved recipes.
 🌟 **View more projects [here](https://github.com/koskei-kipkoech?tab=repositories)!**  
 
 ---
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=koskei-kipkoech&theme=dark&no-frame=true&no-bg=true&row=2" alt="koskei-kipkoech" />
+  </a>
+</p>
+
+
+----
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=1800&token=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)
