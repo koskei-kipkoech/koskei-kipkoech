@@ -41,7 +41,7 @@
 An interactive React-based fashion e-commerce website with filtering and a shopping cart.
 
 ### 2️⃣ [Notes App](https://github.com/koskei-kipkoech/notes-app)
-A full-stack notes application built with Flask and React, featuring authentication and a calendar.
+A full-stack notes application built with Flask and React features authentication and a calendar.
 
 ### 3️⃣ [Recipe Finder](https://github.com/koskei-kipkoech/recipe-app)
 A recipe search and management application with dark mode and saved recipes.
@@ -51,9 +51,9 @@ A recipe search and management application with dark mode and saved recipes.
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&theme=dark&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=koskei-kipkoech&theme=dark&hide_border=false)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=koskei-kipkoech&theme=dark&hide_border=false)
 
 ---
 
