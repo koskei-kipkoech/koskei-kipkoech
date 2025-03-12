@@ -51,9 +51,9 @@ A recipe search and management application with dark mode and saved recipes.
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&show_icons=true&theme=dark&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koskei-kipkoech&show_icons=true&theme=dark&hide_border=false&count_private=true&token=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)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=koskei-kipkoech&theme=dark&hide_border=false)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=koskei-kipkoech&theme=dark&hide_border=false&token=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)
 
 ---
 
